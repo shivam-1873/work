@@ -4,16 +4,19 @@ This repository contains a curated list of live web applications and professiona
 
 ---
 
-## 🌐 Live Projects
+## 🌐 Live Projects by Technology
 
-| Project Name | Live Link |
-| :--- | :--- |
-| **PNS Web** | [pnsweb.in](https://pnsweb.in/) |
-| **USC India** | [uscindia.in](https://uscindia.in/) |
-| **Cardmac** | [cardmac.in](https://cardmac.in/) |
-| **Balaji Associates** | [balajiassociates.co](http://balajiassociates.co/) |
-| **Let's Wish** | [letswish.co](https://letswish.co/) |
-| **Chemical Solutions** | [chemicalsolutions.in](https://chemicalsolutions.in/) |
+### 🛠️ WordPress
+*   **PNS Web** – [pnsweb.in](https://pnsweb.in/)
+*   **Balaji Associates** – [balajiassociates.co](http://balajiassociates.co/)
+*   **Chemical Solutions** – [chemicalsolutions.in](https://chemicalsolutions.in/)
+
+### ⚡ PHP / Laravel
+*   **Cardmac** – [cardmac.in](https://cardmac.in/)
+*   **Let's Wish** – [letswish.co](https://letswish.co/)
+
+### ⚛️ Node.js / React
+*   **USC India** – [uscindia.in](https://uscindia.in/)
 
 ---
 
